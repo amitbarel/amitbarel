@@ -18,7 +18,7 @@ I recently finished my B.Sc in Software Engineering, specializing in Mobile Soft
 ![image](https://img.shields.io/badge/Swift-FFD43B?style=for-the-badge&logo=swift&logoColor=white&color=orange)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitbarel&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitbarel&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitbarel&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitbarel&theme=nord_dark)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitbarel&label=Profile%20views&color=0e75b6&style=flat" alt="amitbarel" /> </p>
 
