@@ -30,6 +30,7 @@ B.Sc in Software Engineering, specializing in Mobile Software Development 📱
 
 
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitbarel&theme=city_lights)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitbarel&label=Profile%20views&color=0e75b6&style=flat" alt="amitbarel" /> </p>
 
 ## Tools 🔧
 ![image](https://img.shields.io/badge/Android-FFD43B?style=for-the-badge&logo=android&logoColor=white&color=green)
