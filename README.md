@@ -1,25 +1,14 @@
-<h1>Hi there 👋</h2>
-
-<!--
-**amitbarel/amitbarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<h1>👋 Hi there! I'm Amit Barel</h1>
 
 ## About Me
-B.Sc in Software Engineering, specializing in Mobile Software Development 📱
+I recently finished my B.Sc in Software Engineering, specializing in Mobile Software Development 📱
+- 🔭 I’m currently working on mastering mobile software development and diving into new technologies.
+- ⚡ I’m currently learning to expand my knowledge of frontend languages
+- 🌍 Ask me about weird geography facts or challenge me for a trivia - I know some weird facts
+- 🏀 Fun fact: I'm 6'2", but don't let my height fool you — I’m better at coding than basketball!
 
-## Get in Touch! 📬
+  
+## 📫 How to reach me
 <a href="https://www.linkedin.com/in/amit-barel" target="blank"><img align="center" src="https://img.shields.io/badge/Amit Barel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:amitbrl1797@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Amit Barel-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;  
 
 ## Languages ⌨️
