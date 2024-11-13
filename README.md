@@ -28,9 +28,6 @@ I recently finished my B.Sc in Software Engineering, specializing in Mobile Soft
 ![image](https://img.shields.io/badge/Spring-FFD43B?style=for-the-badge&logo=spring&logoColor=white&color=green)
 ![image](https://img.shields.io/badge/Pygame-FFD43B?style=for-the-badge&logo=pygame&logoColor=white&color=blue)
 ![image](https://img.shields.io/badge/Unity-FFD43B?style=for-the-badge&logo=unity&logoColor=white&color=black)
-![image](https://img.shields.io/badge/Grafana-FFD43B?style=for-the-badge&logo=grafana&logoColor=white&color=orange)
-![image](https://img.shields.io/badge/Zendesk-FFD43B?style=for-the-badge&logo=zendesk&logoColor=white&color=blue)
-![image](https://img.shields.io/badge/Coralogix-FFD43B?style=for-the-badge&logo=coralogix&logoColor=white&color=green)
 
 ## ⚙️ Technologies
 ![image](https://img.shields.io/badge/Git-FFD43B?style=for-the-badge&logo=git&logoColor=white&color=red)
@@ -38,3 +35,6 @@ I recently finished my B.Sc in Software Engineering, specializing in Mobile Soft
 ![image](https://img.shields.io/badge/Firebase-FFD43B?style=for-the-badge&logo=firebase&logoColor=white&color=orange)
 ![image](https://img.shields.io/badge/MySQL-FFD43B?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
 ![image](https://img.shields.io/badge/MongoDB-FFD43B?style=for-the-badge&logo=mongodb&logoColor=white&color=green)
+![image](https://img.shields.io/badge/Grafana-FFD43B?style=for-the-badge&logo=grafana&logoColor=white&color=orange)
+![image](https://img.shields.io/badge/Zendesk-FFD43B?style=for-the-badge&logo=zendesk&logoColor=white&color=blue)
+![image](https://img.shields.io/badge/Coralogix-FFD43B?style=for-the-badge&logo=coralogix&logoColor=white&color=green)
